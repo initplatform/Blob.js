@@ -1,0 +1,23 @@
+{
+  "name": "@sbpro/blob",
+  "version": "1.0.0",
+  "description": "Blob.js polyfill",
+  "main": "Blob.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initplatform/Blob.js.git"
+  },
+  "keywords": [
+    "Blob",
+    "polyfill"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/initplatform/Blob.js/issues"
+  },
+  "homepage": "https://github.com/initplatform/Blob.js#readme"
+}
